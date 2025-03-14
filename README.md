@@ -71,6 +71,7 @@
 - **[Mastering IPFS](https://github.com/PacktPublishing/Mastering-IPFS)** - A comprehensive guidebook on IPFS, covering installation, usage, and application development.
 - **[Building DApps with IPFS](https://medium.com/@ipfs/building-decentralized-applications-with-ipfs-6f7766e283e5)** - A tutorial on building decentralized applications using IPFS.
 - **[IPFS Weekly](https://blog.ipfs.tech/)** - The official blog of IPFS, featuring updates, tutorials, and announcements.
+- **[Python IPFS integration example](https://github.com/non-npc/Python-IPFS-Demo)** - Demonstrating how to incorporate IPFS and Python in a static page without a local IPFS client or node.
 
 ## Projects Built on IPFS
 
