@@ -79,7 +79,6 @@
 
 ## Projects Built on IPFS
 
-- **[Brave Browser](https://brave.com/ipfs-support/)** - A privacy-focused web browser with native IPFS support.
 - **[DTube](https://d.tube/)** - A decentralized video sharing platform built on IPFS and Steem.
 - **[Audius](https://audius.co/)** - A decentralized music streaming service using IPFS for content storage.
 - **[OpenBazaar](https://openbazaar.org/)** - A decentralized online marketplace built on IPFS.
